@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468F120F-CD7C-44CB-AB18-3E229667353B}|Tobbretegu.Logic\\Tobbretegu.Logic.csproj|c:\\users\\vagok\\desktop\\gy09 t\u00F6bbr\u00E9tegu kiindul\u00F3\\tobbretegu.logic\\logic\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468F120F-CD7C-44CB-AB18-3E229667353B}|Tobbretegu.Logic\\Tobbretegu.Logic.csproj|solutionrelative:tobbretegu.logic\\logic\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEDDA16-60A5-4A12-972E-AB6F5A1E34D4}|Tobbretegu.DAL\\Tobbretegu.DAL.csproj|c:\\users\\vagok\\desktop\\gy09 t\u00F6bbr\u00E9tegu kiindul\u00F3\\tobbretegu.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEDDA16-60A5-4A12-972E-AB6F5A1E34D4}|Tobbretegu.DAL\\Tobbretegu.DAL.csproj|solutionrelative:tobbretegu.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B23CF-A712-71BC-A1CD-2A67910D0240}|Tobbretegu\\Tobbretegu.csproj|c:\\users\\vagok\\desktop\\gy09 t\u00F6bbr\u00E9tegu kiindul\u00F3\\tobbretegu\\view\\noteslistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B23CF-A712-71BC-A1CD-2A67910D0240}|Tobbretegu\\Tobbretegu.csproj|solutionrelative:tobbretegu\\view\\noteslistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468F120F-CD7C-44CB-AB18-3E229667353B}|Tobbretegu.Logic\\Tobbretegu.Logic.csproj|c:\\users\\vagok\\desktop\\gy09 t\u00F6bbr\u00E9tegu kiindul\u00F3\\tobbretegu.logic\\logic\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468F120F-CD7C-44CB-AB18-3E229667353B}|Tobbretegu.Logic\\Tobbretegu.Logic.csproj|solutionrelative:tobbretegu.logic\\logic\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\Tobbretegu.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Tobbretegu.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\Tobbretegu.DAL\\Class1.cs",
+              "RelativeToolTip": "Tobbretegu.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T11:23:02.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\Tobbretegu.Logic\\Logic\\NoteService.cs",
+              "RelativeDocumentMoniker": "Tobbretegu.Logic\\Logic\\NoteService.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\Tobbretegu.Logic\\Logic\\NoteService.cs",
+              "RelativeToolTip": "Tobbretegu.Logic\\Logic\\NoteService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T11:05:13.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\Tobbretegu\\View\\NotesListView.xaml.cs",
+              "RelativeDocumentMoniker": "Tobbretegu\\View\\NotesListView.xaml.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\Tobbretegu\\View\\NotesListView.xaml.cs",
+              "RelativeToolTip": "Tobbretegu\\View\\NotesListView.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwGoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:32:23.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\Tobbretegu.Logic\\Logic\\UserService.cs",
+              "RelativeDocumentMoniker": "Tobbretegu.Logic\\Logic\\UserService.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\GY09 T\u00F6bbr\u00E9tegu kiindul\u00F3\\Tobbretegu.Logic\\Logic\\UserService.cs",
+              "RelativeToolTip": "Tobbretegu.Logic\\Logic\\UserService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:42:56.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

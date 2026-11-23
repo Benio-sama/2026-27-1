@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\logisticslab\\zona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|solutionrelative:logisticslab\\zona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\logisticslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|solutionrelative:logisticslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED9E4D0-D5C8-0FAA-25CC-8C4BB9844D5D}|LogisticsLab.Tests\\Logistics.Tests.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\logisticslab.tests\\logistics.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EED9E4D0-D5C8-0FAA-25CC-8C4BB9844D5D}|LogisticsLab.Tests\\Logistics.Tests.csproj|solutionrelative:logisticslab.tests\\logistics.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\logisticslab\\termektipus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|solutionrelative:logisticslab\\termektipus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\logisticslab\\termek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|solutionrelative:logisticslab\\termek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\logisticslab\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|solutionrelative:logisticslab\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\logisticslab\\raktar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|solutionrelative:logisticslab\\raktar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\logisticslab\\polchely.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD938AC-A0D1-4604-0AB5-9DF8C16B4712}|LogisticsLab\\Logistics.csproj|solutionrelative:logisticslab\\polchely.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992F5B38-6AE0-56AF-452B-64709B629FE5}|Office\\ProfilingOffice.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\office\\fastops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992F5B38-6AE0-56AF-452B-64709B629FE5}|Office\\ProfilingOffice.csproj|solutionrelative:office\\fastops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AFCFA8-1F85-8366-38E1-EAD28E29E1DC}|Warmup\\ProfilingWarmup.csproj|c:\\users\\vagok\\desktop\\hallgat\u00F3i\\warmup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AFCFA8-1F85-8366-38E1-EAD28E29E1DC}|Warmup\\ProfilingWarmup.csproj|solutionrelative:warmup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zona.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Zona.cs",
+              "RelativeDocumentMoniker": "LogisticsLab\\Zona.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Zona.cs",
+              "RelativeToolTip": "LogisticsLab\\Zona.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TermekTipus.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\TermekTipus.cs",
+              "RelativeDocumentMoniker": "LogisticsLab\\TermekTipus.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\TermekTipus.cs",
+              "RelativeToolTip": "LogisticsLab\\TermekTipus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Termek.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Termek.cs",
+              "RelativeDocumentMoniker": "LogisticsLab\\Termek.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Termek.cs",
+              "RelativeToolTip": "LogisticsLab\\Termek.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvygAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Robot.cs",
+              "RelativeDocumentMoniker": "LogisticsLab\\Robot.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Robot.cs",
+              "RelativeToolTip": "LogisticsLab\\Robot.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Raktar.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Raktar.cs",
+              "RelativeDocumentMoniker": "LogisticsLab\\Raktar.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Raktar.cs",
+              "RelativeToolTip": "LogisticsLab\\Raktar.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticsLab\\Program.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Program.cs",
+              "RelativeToolTip": "LogisticsLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logistics.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab.Tests\\Logistics.Tests.csproj",
+              "RelativeDocumentMoniker": "LogisticsLab.Tests\\Logistics.Tests.csproj",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab.Tests\\Logistics.Tests.csproj",
+              "RelativeToolTip": "LogisticsLab.Tests\\Logistics.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T09:27:11.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Polchely.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Polchely.cs",
+              "RelativeDocumentMoniker": "LogisticsLab\\Polchely.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\LogisticsLab\\Polchely.cs",
+              "RelativeToolTip": "LogisticsLab\\Polchely.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FastOps.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\Office\\FastOps.cs",
+              "RelativeDocumentMoniker": "Office\\FastOps.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\Office\\FastOps.cs",
+              "RelativeToolTip": "Office\\FastOps.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\Warmup\\Program.cs",
+              "RelativeDocumentMoniker": "Warmup\\Program.cs",
+              "ToolTip": "C:\\Users\\vagok\\Desktop\\Hallgat\u00F3i\\Warmup\\Program.cs",
+              "RelativeToolTip": "Warmup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:27:11.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

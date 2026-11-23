@@ -1,0 +1,14 @@
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\bin\Debug\net8.0\ProfilingLab.exe
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\bin\Debug\net8.0\ProfilingLab.deps.json
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\bin\Debug\net8.0\ProfilingLab.runtimeconfig.json
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\bin\Debug\net8.0\ProfilingLab.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\bin\Debug\net8.0\ProfilingLab.pdb
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\ProfilingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\ProfilingLab.AssemblyInfoInputs.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\ProfilingLab.AssemblyInfo.cs
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\ProfilingLab.csproj.CoreCompileInputs.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\ProfilingLab.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\refint\ProfilingLab.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\ProfilingLab.pdb
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\ProfilingLab.genruntimeconfig.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\obj\Debug\net8.0\ref\ProfilingLab.dll

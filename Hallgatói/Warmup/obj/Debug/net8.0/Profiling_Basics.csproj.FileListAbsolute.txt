@@ -1,0 +1,14 @@
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\bin\Debug\net8.0\Profiling_Basics.exe
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\bin\Debug\net8.0\Profiling_Basics.deps.json
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\bin\Debug\net8.0\Profiling_Basics.runtimeconfig.json
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\bin\Debug\net8.0\Profiling_Basics.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\bin\Debug\net8.0\Profiling_Basics.pdb
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\Profiling_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\Profiling_Basics.AssemblyInfoInputs.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\Profiling_Basics.AssemblyInfo.cs
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\Profiling_Basics.csproj.CoreCompileInputs.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\Profiling_Basics.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\refint\Profiling_Basics.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\Profiling_Basics.pdb
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\Profiling_Basics.genruntimeconfig.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Basics\obj\Debug\net8.0\ref\Profiling_Basics.dll

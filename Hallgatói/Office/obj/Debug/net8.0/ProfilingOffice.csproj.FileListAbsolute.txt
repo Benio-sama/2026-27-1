@@ -1,0 +1,14 @@
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\bin\Debug\net8.0\ProfilingOffice.exe
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\bin\Debug\net8.0\ProfilingOffice.deps.json
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\bin\Debug\net8.0\ProfilingOffice.runtimeconfig.json
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\bin\Debug\net8.0\ProfilingOffice.dll
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\bin\Debug\net8.0\ProfilingOffice.pdb
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\ProfilingOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\ProfilingOffice.AssemblyInfoInputs.cache
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\ProfilingOffice.AssemblyInfo.cs
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\ProfilingOffice.csproj.CoreCompileInputs.cache
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\ProfilingOffice.dll
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\refint\ProfilingOffice.dll
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\ProfilingOffice.pdb
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\ProfilingOffice.genruntimeconfig.cache
+C:\BME\SzTT\Atdolgozas\Oktatoi\Office\obj\Debug\net8.0\ref\ProfilingOffice.dll

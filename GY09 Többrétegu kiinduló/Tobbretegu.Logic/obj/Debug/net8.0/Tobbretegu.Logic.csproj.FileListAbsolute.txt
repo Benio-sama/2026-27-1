@@ -1,0 +1,15 @@
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\bin\Debug\net8.0\Tobbretegu.Logic.deps.json
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\bin\Debug\net8.0\Tobbretegu.Logic.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\bin\Debug\net8.0\Tobbretegu.Logic.pdb
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\Tobbretegu.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\Tobbretegu.Logic.AssemblyInfoInputs.cache
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\Tobbretegu.Logic.AssemblyInfo.cs
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\Tobbretegu.Logic.csproj.CoreCompileInputs.cache
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\Tobbretegu.Logic.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\refint\Tobbretegu.Logic.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\Tobbretegu.Logic.pdb
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\ref\Tobbretegu.Logic.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\Tobbrete.D0B35792.Up2Date
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\bin\Debug\net8.0\Tobbretegu.DAL.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\bin\Debug\net8.0\Tobbretegu.DAL.pdb
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.Logic\obj\Debug\net8.0\Tobbretegu.Logic.csproj.AssemblyReference.cache

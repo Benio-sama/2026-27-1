@@ -1,0 +1,68 @@
+﻿<UserControl
+    x:Class="Tobbretegu.View.NotesListView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Tobbretegu.View"
+    xmlns:model="using:Tobbretegu.Model"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <NavigationView x:Name="navView" IsBackEnabled="False" IsBackButtonVisible="Collapsed" PaneDisplayMode="Top" IsSettingsVisible="False"
+                    Loaded="NavView_Loaded" SelectionChanged="NavView_SelectionChanged">
+
+        <NavigationView.MenuItems>
+            <NavigationViewItem Margin="25 0 0 0" Tag="@@@newuser">
+                <Button x:Name="btnAddNewUser" Click="BtnAddNewUser_Click">
+                    <TextBlock Text="+" FontSize="22" />
+                </Button>
+            </NavigationViewItem>
+        </NavigationView.MenuItems>
+        
+        <NavigationView.Header>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Padding="0 3 10 0" FontSize="18" FontWeight="Normal">
+                    Name
+                </TextBlock>
+                <TextBox x:Name="tbUserName" Width="300" />
+                <Button x:Name="btnChange" Margin="3 3 0 0" Click="BtnChangeName_Click">
+                    <TextBlock Text="Change" VerticalAlignment="Center" />
+                </Button>
+            </StackPanel>
+        </NavigationView.Header>
+    
+        <StackPanel Padding="5" Background="Cornsilk">
+            <ItemsControl ItemsSource="{x:Bind DisplayedList, Mode=OneWay}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate x:DataType="model:Note">
+                        <StackPanel Orientation="Vertical" Background="White" Margin="3">
+                            <Grid>
+                                <Grid VerticalAlignment="Top">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*" />
+                                        <ColumnDefinition Width="60" />
+                                        <ColumnDefinition Width="60" />
+                                    </Grid.ColumnDefinitions>
+                                    <TextBox Text="{x:Bind Title, Mode=TwoWay}" FontWeight="Bold" Grid.Column="0" BorderThickness="0" />
+                                    <Button x:Name="btnSave" Grid.Column="1" Click="BtnSave_Click">
+                                        <TextBlock Text="Save" FontSize="10" />
+                                    </Button>
+                                    <Button x:Name="btnDelete" Grid.Column="2" Click="BtnDelete_Click">
+                                        <TextBlock Text="Delete" FontSize="10" />
+                                    </Button>
+                                </Grid>
+                            </Grid>
+                            <TextBox Text="{x:Bind Description, Mode=TwoWay}" VerticalAlignment="Center" TextWrapping="Wrap" FontSize="12" BorderThickness="0" MinHeight="100" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            <Button x:Name="btnAdd" Margin="3 3 0 0" Click="BtnAddNewNote_Click">
+                <TextBlock Text="Add" VerticalAlignment="Center" />
+            </Button>
+        </StackPanel>
+
+    </NavigationView>
+</UserControl>

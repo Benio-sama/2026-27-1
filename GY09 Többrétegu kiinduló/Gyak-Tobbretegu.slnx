@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tobbretegu.DAL/Tobbretegu.DAL.csproj" Id="4fedda16-60a5-4a12-972e-ab6f5a1e34d4" />
+  <Project Path="Tobbretegu.Logic/Tobbretegu.Logic.csproj" Id="468f120f-cd7c-44cb-ab18-3e229667353b" />
+  <Project Path="Tobbretegu/Tobbretegu.csproj">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="*|x86" Project="x86" />
+    <Deploy />
+  </Project>
+</Solution>

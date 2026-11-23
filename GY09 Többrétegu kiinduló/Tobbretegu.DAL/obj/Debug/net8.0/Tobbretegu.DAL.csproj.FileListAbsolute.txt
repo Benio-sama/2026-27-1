@@ -1,0 +1,12 @@
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\bin\Debug\net8.0\Tobbretegu.DAL.deps.json
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\bin\Debug\net8.0\Tobbretegu.DAL.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\bin\Debug\net8.0\Tobbretegu.DAL.pdb
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\Tobbretegu.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\Tobbretegu.DAL.AssemblyInfoInputs.cache
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\Tobbretegu.DAL.AssemblyInfo.cs
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\Tobbretegu.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\Tobbretegu.DAL.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\refint\Tobbretegu.DAL.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\Tobbretegu.DAL.pdb
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\ref\Tobbretegu.DAL.dll
+C:\Users\vagok\Desktop\GY09 Többrétegu kiinduló\Tobbretegu.DAL\obj\Debug\net8.0\Tobbrete.2E0D6DA7.Up2Date

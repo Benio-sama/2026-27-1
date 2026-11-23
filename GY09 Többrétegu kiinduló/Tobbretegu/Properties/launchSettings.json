@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tobbretegu (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Tobbretegu (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

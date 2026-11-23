@@ -1,0 +1,14 @@
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\bin\Debug\net8.0\Profiling_Office.exe
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\bin\Debug\net8.0\Profiling_Office.deps.json
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\bin\Debug\net8.0\Profiling_Office.runtimeconfig.json
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\bin\Debug\net8.0\Profiling_Office.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\bin\Debug\net8.0\Profiling_Office.pdb
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\Profiling_Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\Profiling_Office.AssemblyInfoInputs.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\Profiling_Office.AssemblyInfo.cs
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\Profiling_Office.csproj.CoreCompileInputs.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\Profiling_Office.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\refint\Profiling_Office.dll
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\Profiling_Office.pdb
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\Profiling_Office.genruntimeconfig.cache
+C:\BME\SzTT\Atdolgozas\Tesztelés\Profiling\Office\obj\Debug\net8.0\ref\Profiling_Office.dll
